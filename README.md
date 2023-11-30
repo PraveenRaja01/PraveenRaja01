@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PraveenRaja01
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on app development
+- 📫 How to reach me-praveenraja4102004@gmail.com
