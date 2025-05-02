@@ -23,7 +23,7 @@
 
 *Game Development*  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=blender&logoColor=white)  
 
 *Tools & Concepts*  
 ![OOP](https://img.shields.io/badge/OOP-Principles-orange)  
