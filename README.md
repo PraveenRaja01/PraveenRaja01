@@ -23,7 +23,7 @@
 
 *Game Development*  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=blender&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 
 *Tools & Concepts*  
 ![OOP](https://img.shields.io/badge/OOP-Principles-orange)  
@@ -71,4 +71,4 @@ GPA: 8.4 / 10
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenRaja4102&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenRaja01&show_icons=true&theme=radical)
